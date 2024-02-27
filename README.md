@@ -1,2 +1,2 @@
 # ninja
-this is for assignment 7
+Trying fast forward merge
